@@ -1,6 +1,4 @@
-### Hi there 👋, This is Sakib Hasan
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQHjh2nP09Jt7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736845058228?e=1742428800&v=beta&t=DHcGUo71Fq205xFJaNuP0V2PaDUD_uWjxLae4PyOTdA)
+ ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQHjh2nP09Jt7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736845058228?e=1742428800&v=beta&t=DHcGUo71Fq205xFJaNuP0V2PaDUD_uWjxLae4PyOTdA)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sakibcsebubt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakibcsebubt) 
 
